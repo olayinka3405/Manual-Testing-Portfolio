@@ -6,13 +6,10 @@ As a certified manual tester with a strong understanding of Behavior-Driven Deve
 
 One of my strengths is writing test cases using Gherkin syntax. Gherkin provides a simple, structured way to write tests cases that everyone on the team can understand, from developers to non-technical stakeholders. 
 
-Explanation:
-
-GIVEN step sets up the preconditions for the test.
-
-WHEN step defines the action that triggers the behavior being tested.
-
-THEN step specifies the expected result.
+#### Explanation:
+    GIVEN step sets up the preconditions for the test.
+    WHEN step defines the action that triggers the behavior being tested.
+    THEN step specifies the expected result.
 
 ** Below is an example of a Gherkin-based login functionality test case.
 
@@ -28,7 +25,7 @@ THEN step specifies the expected result.
     Then the user should be redirected to the dashboard
     And the user's username "testuser" should be displayed on the dashboard
 
-  Scenario 2: User logs in with invalid credentials
+  #### Scenario 2: User logs in with invalid credentials
     Given the user navigates to the login page
     And the user enters an invalid username "wronguser"
     And the user enters an invalid password "wrongpassword"
