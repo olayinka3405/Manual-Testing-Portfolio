@@ -46,7 +46,7 @@ When reporting defects, I always ensure the issue is well-documented and actiona
 
 ## Description: 
 
-When entering valid data in all fields on the registration page and clicking the "Sign Up" button, the page does not respond.
+    When entering valid data in all fields on the registration page and clicking the "Sign Up" button, the page does not respond.
 
 ## Steps to Reproduce:
     1. Navigate to the registration page.
