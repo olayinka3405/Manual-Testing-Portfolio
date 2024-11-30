@@ -58,9 +58,17 @@ When entering valid data in all fields on the registration page and clicking the
 
 5. Actual Result: The button does not trigger any action, and the user is not registered.
 
-A. Severity: High
-B. Priority: Critical
-C. Status: Open
+## Severity: 
+
+High
+
+## Priority: 
+
+Critical
+
+## Status: 
+
+Open
 
 Assigned to: Developer team for resolution
 
