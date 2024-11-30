@@ -20,7 +20,7 @@ THEN step specifies the expected result.
 
 ### Feature: User Login
 
-  Scenario 1: User logs in with valid credentials
+  #### Scenario 1: User logs in with valid credentials
     Given the user navigates to the login page
     And the user enters a valid username "testuser"
     And the user enters a valid password "testpassword9876"
