@@ -33,7 +33,7 @@ Feature: User Login
     When the user clicks the "Login" button
     Then the user should see an error message "Invalid credentials"
 
-# Defect Reporting
+## Defect Reporting
 
 When reporting defects, I always ensure the issue is well-documented and actionable. Below is an example of a defect report that follows a structured approach for tracking issues.
 
