@@ -18,7 +18,7 @@ Below is an example of a Gherkin-based login functionality test case.
 
 Feature: User Login
 
-  Scenario: User logs in with valid credentials
+  Scenario 1: User logs in with valid credentials
     Given the user navigates to the login page
     And the user enters a valid username "testuser"
     And the user enters a valid password "testpassword9876"
@@ -26,7 +26,7 @@ Feature: User Login
     Then the user should be redirected to the dashboard
     And the user's username "testuser" should be displayed on the dashboard
 
-  Scenario: User logs in with invalid credentials
+  Scenario 2: User logs in with invalid credentials
     Given the user navigates to the login page
     And the user enters an invalid username "wronguser"
     And the user enters an invalid password "wrongpassword"
@@ -70,9 +70,13 @@ Critical
 
 Open
 
-Assigned to: Developer team for resolution
+## Assigned to: 
 
-Attachments: Screenshot of the registration page with the non-functioning "Sign Up" button.
+Developer team for resolution
+
+## Attachments: 
+
+Screenshot of the registration page with the non-functioning "Sign Up" button.
 
 # Conclusion
 
