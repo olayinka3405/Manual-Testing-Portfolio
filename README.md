@@ -18,7 +18,7 @@ THEN step specifies the expected result.
 
 ## Login Functionality Test Case 
 
-Feature: User Login
+### Feature: User Login
 
   Scenario 1: User logs in with valid credentials
     Given the user navigates to the login page
