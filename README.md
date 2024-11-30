@@ -49,32 +49,26 @@ DEF-001
 When entering valid data in all fields on the registration page and clicking the "Sign Up" button, the page does not respond.
 
 ## Steps to Reproduce:
-    Navigate to the registration page.
-    Fill in the required fields (e.g., Name, Email, Password).
-    Click the "Sign Up" button.
-    Expected Result: User should be successfully registered, and a confirmation message should appear.
-
-5. Actual Result: The button does not trigger any action, and the user is not registered.
+    1. Navigate to the registration page.
+    2. Fill in the required fields (e.g., Name, Email, Password).
+    3. Click the "Sign Up" button.
+    4. Expected Result: User should be successfully registered, and a confirmation message should appear.
+    5. Actual Result: The button does not trigger any action, and the user is not registered.
 
 ## Severity: 
-
-High
+    High
 
 ## Priority: 
-
-Critical
+    Critical
 
 ## Status: 
-
-Open
+    Open
 
 ## Assigned to: 
-
-Developer team for resolution
+    Developer team for resolution
 
 ## Attachments: 
-
-Screenshot of the registration page with the non-functioning "Sign Up" button.
+    Screenshot of the registration page with the non-functioning "Sign Up" button.
 
 # Conclusion
 
