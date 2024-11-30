@@ -14,7 +14,7 @@ WHEN step defines the action that triggers the behavior being tested.
 
 THEN step specifies the expected result.
 
-Below is an example of a Gherkin-based login functionality test case.
+** Below is an example of a Gherkin-based login functionality test case.
 
 ## Login Functionality Test Case 
 
