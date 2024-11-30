@@ -50,7 +50,7 @@ When reporting defects, I always ensure the issue is well-documented and actiona
 
 ## Steps to Reproduce:
     1. Navigate to the registration page.
-    2. Fill in the required fields (e.g., Name, Email, Password).
+    2. Fill in the required fields (e.g., Username, Email, Password).
     3. Click the "Sign Up" button.
     4. Expected Result: User should be successfully registered, and a confirmation message should appear.
     5. Actual Result: The button does not trigger any action, and the user is not registered.
