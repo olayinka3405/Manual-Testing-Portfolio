@@ -8,9 +8,9 @@ One of my strengths is writing test cases using Gherkin syntax. Gherkin provides
 
 Explanation:
 
-**GIVEN step sets up the preconditions for the test.
-**WHEN step defines the action that triggers the behavior being tested.
-**THEN step specifies the expected result.
+GIVEN step sets up the preconditions for the test.
+WHEN step defines the action that triggers the behavior being tested.
+THEN step specifies the expected result.
 
 Below is an example of a Gherkin-based login functionality test case.
 
