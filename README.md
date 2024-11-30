@@ -38,11 +38,11 @@ When reporting defects, I always ensure the issue is well-documented and actiona
 
 ## Defect ID: 
 
-DEF-001
+    DEF-001
 
 ## Summary: 
 
-"Sign Up" button not functional on the registration page.
+    "Sign Up" button not functional on the registration page.
 
 ## Description: 
 
