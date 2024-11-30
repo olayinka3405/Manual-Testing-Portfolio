@@ -37,11 +37,17 @@ Feature: User Login
 
 When reporting defects, I always ensure the issue is well-documented and actionable. Below is an example of a defect report that follows a structured approach for tracking issues.
 
-## Defect ID: DEF-001
+## Defect ID: 
 
-## Summary: "Sign Up" button not functional on the registration page.
+DEF-001
 
-## Description: When entering valid data in all fields on the registration page and clicking the "Sign Up" button, the page does not respond.
+## Summary: 
+
+"Sign Up" button not functional on the registration page.
+
+## Description: 
+
+When entering valid data in all fields on the registration page and clicking the "Sign Up" button, the page does not respond.
 
 ## Steps to Reproduce:
 
